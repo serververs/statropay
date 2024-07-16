@@ -11,17 +11,10 @@ Introducing an advanced payment system for your hosting company, StatroPay! Stat
 - Free and open-source
 - User-friendly client and admin area
 - Easily customizable
-- Payment integration with: Stripe, PayPal, Mollie, and more
-- Server integration with: Pterodactyl, Virtualizor, Virtfusion, and more
+- Payment integration with: Razorpay, Cashfree, PayPal, and more
+- Server integration with: Pterodactyl, Cyberpanel, Proxmox, and more
 - Automatically bill your customers
 - Built-in support center
 - Generate coupons to give your customers discounts
 
-## Requirements
-The requirements for StatroPay are the following:
-- PHP (8.1 or higher)
-- Composer
-
-## Installation & Documentation
-For a detailed explanation of how to install and configure StatroPay, take a look at our [documentation here](https://statropay.serververs.com).
-- Or, get additional help via our [Community Discord](https://discord.gg/v7q585QXNr).
+Get any help via our [Community Discord](https://discord.gg/v7q585QXNr).
